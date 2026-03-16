@@ -32,7 +32,7 @@ calculator-project
 
 ## 🌐 Live Demo
 
-https://yourusername.github.io/calculator-project
+https://OP0710.github.io/calculator-project
 
 ## 📸 Screenshot
 ## Screenshot
